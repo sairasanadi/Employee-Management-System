@@ -318,7 +318,7 @@ int main()
 		cout << "2. Edit employee's salary" << endl;
 		cout << "3. Delete an employee" << endl;
 		cout << "4. Print all employees" << endl;
-		cout << "5. Update employee iinformation" << endl;
+		cout << "5. Update employee information" << endl;
 		cout << "6. Close the program" << endl;
 		cout << "----------------------------------------" << endl << endl;
 	
